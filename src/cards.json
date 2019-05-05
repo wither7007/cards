@@ -1,0 +1,14 @@
+{
+  "cards": [
+    { "word": "Mumbai", "define": "12.4million" },
+    { "word": "Tianjin", "define": "12.7million" },
+    { "word": "Manila", "define": "12.8million" },
+    { "word": "Moscow", "define": "13.1million" },
+    { "word": "Tokyo", "define": "13.6million" },
+    { "word": "Dhaka", "define": "14.5" },
+    { "word": "Istanbul", "define": "14.6million" },
+    { "word": "Karachi", "define": "18million" },
+    { "word": "Beijing", "define": "18.5million" },
+    { "word": "Shanghai", "define": "24.1million" }
+  ]
+}

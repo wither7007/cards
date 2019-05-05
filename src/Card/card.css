@@ -1,0 +1,9 @@
+body {
+    background: #e3e3d3;
+}
+.card {
+    font-size: 20px;
+    border: solid green 1px;
+    padding: 2rem;
+    margin: 1rem;
+}
